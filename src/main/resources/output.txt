@@ -1,0 +1,18 @@
+Exercise 2.
+The data of 687 vehicles were recorded in the measurement.
+
+Exercise 3.
+Before 9 o'clock 603 vehicles passed the exit point recorder.
+
+Exercise 4.
+a. The number of vehicle that passed the entry point recorder: 12
+b. The traffic intensity: 7.1
+
+Exercise 5.
+The data of the vehicle with the highest speed are
+license plate number: OKL564
+average speed: 138 km/h
+number of overtaken vehicles: 33
+
+Exercise 6.
+11.94% percent of the vehicles were speeding.
